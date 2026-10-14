@@ -1,3 +1,5 @@
+![mornrain-gridcraft-portfolio](assets/preview.png)
+
 # Gridcraft Portfolio
 
 网格作品集 WordPress 主题。为设计师、摄影师、独立开发者打造：瀑布流网格、原生分类筛选、手写 Lightbox、作品详情页模板，首页含 Hero 区 + 精选作品 + 服务介绍 + 客户 + 约稿 CTA。
