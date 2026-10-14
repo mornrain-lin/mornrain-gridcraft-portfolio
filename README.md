@@ -1,4 +1,4 @@
-![mornrain-gridcraft-portfolio](assets/preview.png)
+![mornrain-gridcraft-portfolio](assets/home.png)
 
 # Gridcraft Portfolio
 
@@ -12,6 +12,12 @@
 - 许可证：MIT
 
 ---
+
+## 界面预览
+
+| 首页 | 文章页 |
+| --- | --- |
+| ![首页](assets/home.png) | ![文章页](assets/article.png) |
 
 ## 简介
 
